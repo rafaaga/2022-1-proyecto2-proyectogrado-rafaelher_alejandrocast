@@ -1,9 +1,8 @@
-def mostrar():
+
+
+def consultar_instrucciones():
     return """
-        #### 
-        Este es un ejemplo **.
+           #### ¡Hola bienvenidos!
+           Este es el sistema de gestion de notas aqui puedes veriricar todas tus notas sin tener que ir a otro lugar. \n
 
-        ####
-        Proyecto elaborado para @   por Luisa Rincón.
-
-        """
+           """
